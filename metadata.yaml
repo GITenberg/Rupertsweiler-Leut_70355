@@ -1,0 +1,37 @@
+_repo: Rupertsweiler-Leut_70355
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Straub, Harriet
+    aliases:
+    - Straub, Maria Hedwig Luitgardis
+    - Mauthner, Hedwig
+    - Silles-O'Cunningham, Hedwig
+    birthdate: 1872
+    deathdate: 1945
+    gutenberg_agent_id: '55727'
+    url: http://www.gutenberg.org/2009/agents/55727
+    wikipedia: https://de.wikipedia.org/wiki/Harriet_Straub
+description: ''
+gutenberg_issued: '2023-03-23'
+identifiers:
+  gutenberg: '70355'
+language: de
+pgterms:marc904: https://catalog.hathitrust.org/Record/100683756
+pgterms:marc905: 20201213061414straub
+pgterms:marc906: '1912'
+pgterms:marc907: DE
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from images made available by the HathiTrust Digital Library.)
+publication_note: '  $aGermany :$bGeorg Müller, $c1912.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Country life -- Fiction'
+- !lcsh 'Women -- Fiction'
+- !lcsh 'Black Forest (Germany) -- Fiction'
+- !lcc 'PT'
+- GITenberg
+title: Rupertsweiler Leut
+url: http://www.gutenberg.org/ebooks/70355
